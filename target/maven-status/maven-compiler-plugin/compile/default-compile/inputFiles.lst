@@ -1,0 +1,6 @@
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/reader/JpaReader.java
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/repository/IEitDmnStagingShadowRepository.java
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/DemoApplication.java
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/entities/EitDmnStagingShadow.java
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/configuration/BatchConfiguration.java
+/home/hsc/Desktop/eit-dmn-job/src/main/java/com/dataflow/demo/processor/CustomProcessor.java

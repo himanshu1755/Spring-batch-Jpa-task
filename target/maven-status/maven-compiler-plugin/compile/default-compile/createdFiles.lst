@@ -1,0 +1,6 @@
+com/dataflow/demo/repository/IEitDmnStagingShadowRepository.class
+com/dataflow/demo/configuration/BatchConfiguration.class
+com/dataflow/demo/DemoApplication.class
+com/dataflow/demo/entities/EitDmnStagingShadow.class
+com/dataflow/demo/processor/CustomProcessor.class
+com/dataflow/demo/reader/JpaReader.class
